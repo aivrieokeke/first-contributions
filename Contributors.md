@@ -36,6 +36,7 @@
 - [Nina Wang](https://github.com/ericgchu)
 - [Harshit kumar yadav](https://github.com/harshit2123)
 - [Sarthak Dhonchak](https://github.com/SarthakDhonchak/)
+- [Ivory Okeke](https://github.com/Aivrie)
 - [Marc Perlas](https://github.com/DadTech)
 - [Alex Ownejazayeri](https://github.com/alexownejazayeri)
 - [Steve Slater](https://github.com/sjslater)
